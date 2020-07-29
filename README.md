@@ -1,6 +1,6 @@
 ### Hi there, I'm Deeksha Sharma 👋🏻
 
-![animated image](resources/pngG.png)
+![animated image](resources/pro_girl.png)
 
 
 
