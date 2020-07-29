@@ -1,6 +1,6 @@
 ### Hi there, I'm Deeksha Sharma 👋🏻
 
-<img src="./resources/progirl.png" alt="image" />
+<img src="https://ds-image-gallery.herokuapp.com/image/48d85a51c104b0499459337f9265cc2d.png" alt="image" />
 
 
 I'm Full Stack Developer with a serious passion for UI effects, animations and creating intuitive, dynamic user experiences with highly scalable backend. <br>
