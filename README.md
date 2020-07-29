@@ -1,20 +1,21 @@
-### Hi there, I'm Deeksha Sharma 👋🏻
+<img align="right" height="180px" src="https://github.com/Deeksha2501/Deeksha2501/blob/master/resources/progirl.png" alt="image" />
 
-<img src="https://github.com/Deeksha2501/Deeksha2501/blob/master/resources/progirl.png" alt="image" />
+<p align="left">
 
-
+## Hi there, I'm Deeksha Sharma 👋 
+ 
 I'm Full Stack Developer with a serious passion for UI effects, animations and creating intuitive, dynamic user experiences with highly scalable backend. <br>
 <br>
 🌱 I’m currently learning GraphQL & React.js <br>
-💻 [Check out my portfolio](http://ds-portfolio.vercel.app/)
+💻<a href="http://ds-portfolio.vercel.app/">Check out my portfolio</a>
+  <p>
 <br>
-<br>
 
 
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Deeksha2501&show_icons=true&theme=radical&count_private=true" alt="Deeksha's github stats" />
+  <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=Deeksha2501&show_icons=true&theme=radical&count_private=true" alt="Deeksha's github stats" />
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deeksha2501&theme=radical" />
+  <img align="centre" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deeksha2501&theme=radical" />
 
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Deeksha2501&repo=Online_Classroom_Web_App&theme=radical&show_owner" />
 
