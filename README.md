@@ -1,6 +1,6 @@
 ### Hi there, I'm Deeksha Sharma 👋🏻
 
-<img src="./resources/progirl.png" alt="image" />
+<img src="https://github.com/Deeksha2501/Deeksha2501/blob/master/resources/progirl.png" alt="image" />
 
 
 I'm Full Stack Developer with a serious passion for UI effects, animations and creating intuitive, dynamic user experiences with highly scalable backend. <br>
