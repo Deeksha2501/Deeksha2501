@@ -13,13 +13,13 @@ I'm Full Stack Developer with a serious passion for UI effects, animations and c
 
 
 
-  <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=Deeksha2501&show_icons=true&theme=radical&count_private=true" alt="Deeksha's github stats" />
+  <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=Deeksha2501&show_icons=true&count_private=true&title_color=e6005c" alt="Deeksha's github stats" />
 
-  <img align="centre" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deeksha2501&theme=radical" />
+  <img align="centre" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deeksha2501&title_color=e6005c&layout=compact" />
 
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Deeksha2501&repo=Online_Classroom_Web_App&theme=radical&show_owner" />
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Deeksha2501&repo=Online_Classroom_Web_App&show_owner&title_color=e6005c" />
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deeksha2501&repo=Daily-Newspaper-using-reactJS&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deeksha2501&repo=Daily-Newspaper-using-reactJS&title_color=e6005c" />
 <br> 
 <br>
 <br>
