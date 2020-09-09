@@ -46,7 +46,3 @@ I'm Full Stack Developer with a serious passion for UI effects, animations and c
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Deeksha2501/count.svg" />
 </p>
-
-<p align="right">
-Github Cards by <a href="https://github.com/anuraghazra">anuraghazra</a>
-</p>
