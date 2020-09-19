@@ -4,7 +4,7 @@
 
 ## Hi there, I'm Deeksha Sharma 👋🏻 
  
-I'm Full Stack Developer with a serious passion for UI effects, animations and creating intuitive, dynamic user experiences with highly scalable backend. <br>
+I'm Full Stack Developer with a serious passion for UI effects, animations and creating intuitive user experiences with highly scalable backend. <br>
 <br>
 🌱 I’m currently learning GraphQL & React.js <br>
 💻<a target="_blank" href="https://deekshasharma.vercel.app/"> Check out my portfolio</a>
