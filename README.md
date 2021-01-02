@@ -1,4 +1,4 @@
-<img align="right" height="180px" src="https://github.com/Deeksha2501/Deeksha2501/blob/master/resources/progirl.png" alt="image" />
+<img align="right" height="180px" src="https://media-exp1.licdn.com/dms/image/sync/C4D27AQE96DfZ9krQCw/articleshare-shrink_800/0/1609044355258?e=1609682400&v=beta&t=zsJ7Y-QemSTmKxEi4WZX7kkp9TmnISLySevTXPn4c9I" alt="image" />
 
 <p align="left">
 
