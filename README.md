@@ -1,4 +1,4 @@
-<img align="right" height="200px" src="https://github.com/Deeksha2501/Deeksha2501/blob/master/resources/progirl.png" alt="image" />
+<img align="right" height="180px" src="https://github.com/Deeksha2501/Deeksha2501/blob/master/resources/progirl.png" alt="image" />
 
 <p align="left">
 
