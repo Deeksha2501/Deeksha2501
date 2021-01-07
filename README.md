@@ -1,4 +1,4 @@
-<img align="right" height="180px" src="https://github.com/Deeksha2501/Deeksha2501/blob/master/resources/progirl.png" alt="image" />
+<img align="right" height="220px" src="https://appservice.azureedge.net/images/linux-landing-page/v3/node.svg" alt="image" />
 
 <p align="left">
 
