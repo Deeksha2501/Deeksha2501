@@ -42,6 +42,8 @@ I'm Full Stack Developer with a serious passion for UI effects, animations and c
   <img style="width:40px" src="resources/quora.png" alt="Quora profile" />
 </a> -->
 
+<p align="center"> <a href="http://deekshasharma.vercel.app/"><img src="https://github-profile-trophy.vercel.app/?username=Deeksha2501&theme=monokai" alt="Deeksha2501" /></a> </p>
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Deeksha2501/count.svg" />
