@@ -2,7 +2,7 @@
 
 <p align="left">
 
-## Hi there, I'm Deeksha Sharma 👋🏻 
+## Hi there, I'm Deeksha Sharma 👋🏻 hi
  
 I'm Full Stack Developer with a serious passion for UI effects, animations and creating intuitive user experiences with highly scalable backend. <br>
 <br>
